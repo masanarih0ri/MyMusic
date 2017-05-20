@@ -12,6 +12,9 @@
 		FE197A161ECFE5080073D14C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE197A141ECFE5080073D14C /* Main.storyboard */; };
 		FE197A181ECFE5080073D14C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE197A171ECFE5080073D14C /* Assets.xcassets */; };
 		FE197A1B1ECFE5080073D14C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE197A191ECFE5080073D14C /* LaunchScreen.storyboard */; };
+		FE197A251ECFEBD80073D14C /* backmusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE197A221ECFEBD80073D14C /* backmusic.mp3 */; };
+		FE197A261ECFEBD80073D14C /* cymbal.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE197A231ECFEBD80073D14C /* cymbal.mp3 */; };
+		FE197A271ECFEBD80073D14C /* guitar.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FE197A241ECFEBD80073D14C /* guitar.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		FE197A171ECFE5080073D14C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FE197A1A1ECFE5080073D14C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FE197A1C1ECFE5080073D14C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE197A221ECFEBD80073D14C /* backmusic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = backmusic.mp3; sourceTree = "<group>"; };
+		FE197A231ECFEBD80073D14C /* cymbal.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = cymbal.mp3; sourceTree = "<group>"; };
+		FE197A241ECFEBD80073D14C /* guitar.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = guitar.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,9 @@
 				FE197A171ECFE5080073D14C /* Assets.xcassets */,
 				FE197A191ECFE5080073D14C /* LaunchScreen.storyboard */,
 				FE197A1C1ECFE5080073D14C /* Info.plist */,
+				FE197A221ECFEBD80073D14C /* backmusic.mp3 */,
+				FE197A231ECFEBD80073D14C /* cymbal.mp3 */,
+				FE197A241ECFEBD80073D14C /* guitar.mp3 */,
 			);
 			path = MyMusic;
 			sourceTree = "<group>";
@@ -124,6 +133,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				FE197A1B1ECFE5080073D14C /* LaunchScreen.storyboard in Resources */,
+				FE197A261ECFEBD80073D14C /* cymbal.mp3 in Resources */,
+				FE197A271ECFEBD80073D14C /* guitar.mp3 in Resources */,
+				FE197A251ECFEBD80073D14C /* backmusic.mp3 in Resources */,
 				FE197A181ECFE5080073D14C /* Assets.xcassets in Resources */,
 				FE197A161ECFE5080073D14C /* Main.storyboard in Resources */,
 			);
